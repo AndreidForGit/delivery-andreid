@@ -1,4 +1,4 @@
-package com.delivery_andreid;
+package com.gpt_rn;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

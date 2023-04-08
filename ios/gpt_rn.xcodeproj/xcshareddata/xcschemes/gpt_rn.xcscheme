@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "delivery_andreid.app"
-               BlueprintName = "delivery_andreid"
-               ReferencedContainer = "container:delivery_andreid.xcodeproj">
+               BuildableName = "gpt_rn.app"
+               BlueprintName = "gpt_rn"
+               ReferencedContainer = "container:gpt_rn.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "delivery_andreidTests.xctest"
-               BlueprintName = "delivery_andreidTests"
-               ReferencedContainer = "container:delivery_andreid.xcodeproj">
+               BuildableName = "gpt_rnTests.xctest"
+               BlueprintName = "gpt_rnTests"
+               ReferencedContainer = "container:gpt_rn.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "delivery_andreid.app"
-            BlueprintName = "delivery_andreid"
-            ReferencedContainer = "container:delivery_andreid.xcodeproj">
+            BuildableName = "gpt_rn.app"
+            BlueprintName = "gpt_rn"
+            ReferencedContainer = "container:gpt_rn.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "delivery_andreid.app"
-            BlueprintName = "delivery_andreid"
-            ReferencedContainer = "container:delivery_andreid.xcodeproj">
+            BuildableName = "gpt_rn.app"
+            BlueprintName = "gpt_rn"
+            ReferencedContainer = "container:gpt_rn.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

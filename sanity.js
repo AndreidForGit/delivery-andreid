@@ -1,12 +1,15 @@
 import React from "react";
 import sanityClient from "@sanity/client"
 import imageUrlBuilder from "@sanity/image-url"
+import * as dotenv from 'dotenv'
+dotenv.config()
+
 
 const client = sanityClient({
-    projectId: "vb02lhze",
-    dataset: "production",
-    useCdn: true,
-    apiVersion: "2021-10-21",
+    projectId: process.env.PROJECT_ID,
+    dataset: process.env.DB,
+    useCdn: USE_CDN,
+    apiVersion: API_VERSION,
 });
 
 const builder = imageUrlBuilder(client);

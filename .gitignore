@@ -64,3 +64,5 @@ yarn-error.log
 
 #Sample app
 app_sample_react.tsx
+
+.env

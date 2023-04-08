@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.delivery_andreid"
+    namespace "com.gpt_rn"
     defaultConfig {
-        applicationId "com.delivery_andreid"
+        applicationId "com.gpt_rn"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

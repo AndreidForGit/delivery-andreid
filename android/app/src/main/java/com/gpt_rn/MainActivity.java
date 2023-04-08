@@ -1,4 +1,4 @@
-package com.delivery_andreid;
+package com.gpt_rn;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "delivery_andreid";
+    return "gpt_rn";
   }
 
   /**
